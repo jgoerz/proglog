@@ -1,0 +1,17 @@
+{
+"CN": "There can be only one CA",
+"key": {
+  "algo": "rsa",
+  "size": 2048
+  },
+  "names": [
+    {
+      "C": "USA",
+      "L": "Orlando",
+      "ST": "Florida",
+      "O": "Highlander LLC",
+      "OU": "CA Services"
+    }
+  ]
+}
+
